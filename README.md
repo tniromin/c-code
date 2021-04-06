@@ -1,4 +1,6 @@
 # c-code
+
+#fprcus devc++
 #intention of this project can be divided in 3 subproject
     >Domumentation of logical errors in c
     >Propose learning material and reads
